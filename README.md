@@ -1,2 +1,2 @@
 # git-test
-git test 123
+연습을 해봤습니다.
